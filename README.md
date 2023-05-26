@@ -7,6 +7,16 @@ seasonally adjusted.
 
 Extracted from [https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna](https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna)
 
+
+## Chart
+
+<LineChart
+    title="UK Real GDP since 1948 from the Office of National Statistics"
+    xAxis="date"
+    yAxis="GDP"
+    data="data/data.csv"
+/>
+
 ## Preparation 
 
 Process is recorded and automated in 2 bash scripts:
