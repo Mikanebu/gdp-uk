@@ -7,6 +7,11 @@ seasonally adjusted.
 
 Extracted from [https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna](https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna)
 
+## Table
+
+<FlatUiTable 
+    url="https://raw.githubusercontent.com/Mikanebu/gdp-uk/main/data/data.csv" 
+/>
 
 ## Chart
 
