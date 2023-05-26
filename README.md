@@ -10,7 +10,7 @@ Extracted from [https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeserie
 ## Table
 
 <FlatUiTable 
-    url="https://raw.githubusercontent.com/Mikanebu/gdp-uk/main/data/data.csv" 
+    data="https://raw.githubusercontent.com/Mikanebu/gdp-uk/main/data/data.csv" 
 />
 
 ## Chart
