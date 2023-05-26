@@ -14,7 +14,7 @@ Extracted from [https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeserie
     title="UK Real GDP since 1948 from the Office of National Statistics"
     xAxis="date"
     yAxis="GDP"
-    data="https://raw.githubusercontent.com/datasets/gdp-uk/main/data/data.csv"
+    data="https://raw.githubusercontent.com/Mikanebu/gdp-uk/main/data/data.csv"
 />
 
 ## Preparation 
